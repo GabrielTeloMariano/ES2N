@@ -1,0 +1,10 @@
+RF 01 - O Aluno ou a Secretaria podem realizar a matrícula
+RF 02 - O Aluno pode solicitar o histórico
+RF 03 - O Aluno pode solicitar a transferência
+RF 04 - O Aluno pode consultar suas notas e frequência (Boletim)
+RF 05 - Todos os usuários podem fazer login
+RF 06 - A Secretaria pode aprovar transferência
+RF 07 - A Secretaria pode gerenciar alunos (Cadastrar, Excluir e Atualizar informações)
+RF 08 - O Professor pode gerenciar notas e frequências
+RF 09 - Todos os usuários podem fazer logout
+RF 10 - Todos os usuários podem recuperar a senha caso necessário
